@@ -4,9 +4,9 @@
 
 表头助手，提供两个方法对常见的两种表格表头形式进行转换。
 
-**toTree**方法将**[rowspan-colspan]**形式转换为**[tree]**形式；
+**toTree**方法将**rowspan-colspan**形式转换为**tree**形式；
 
-**toRowspanColspan**方法将**[tree]**形式转换为**[rowspan-colspan]**形式；
+**toRowspanColspan**方法将**tree**形式转换为**rowspan-colspan**形式；
 
 ### 表格样式
 
