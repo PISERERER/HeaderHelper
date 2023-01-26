@@ -1,4 +1,7 @@
 # HeaderHelper
+[![GitHub release](https://img.shields.io/github/release/PISERERER/HeaderHelper.svg)](https://github.com/PISERERER/HeaderHelper/releases)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+
 表头助手，提供两个方法对常见的两种表格表头形式进行转换。
 
 **toTree**方法将**[rowspan-colspan]**形式转换为**[tree]**形式；
